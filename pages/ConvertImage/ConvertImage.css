@@ -1,0 +1,78 @@
+.card {
+    box-shadow: 0 1px 1px rgb(0 0 0 / 10%);
+}
+.card {
+    margin-bottom: 1.875rem;
+    border: none;
+    border-radius: 0;
+    box-shadow: 0 10px 40px 0 rgb(62 57 107 / 7%), 0 2px 9px 0 rgb(62 57 107 / 6%);
+    width: 90% !important;
+}
+.mt-2, .my-2 {
+    margin-top: 1.5rem !important;
+}
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.06);
+    width: 97% !important;
+    margin-left: 18px !important;
+}
+.converter .card.options .card-header {
+    border-bottom: 1px solid #f1f1f1;
+}
+.card-header {
+    padding: 1.5rem;
+    margin-bottom: 0;
+    background-color: #fff;
+    border-bottom: 1px solid rgba(0,0,0,.06);
+}
+form.row-separator .form-group {
+    margin: 0;
+    border-bottom: 1px solid #f1f1f1;
+}
+.card-header:first-child {
+    border-radius: calc(.25rem - 1px) calc(.25rem - 1px) 0 0;
+}
+.pt-2, .py-2 {
+    padding-top: 1.5rem !important;
+}
+.p-1{
+    padding: 1rem  !important;
+}
+.selectFile{
+    background: #3f4d67;
+    border-color: #3f4d67;
+}
+.selectToggle{
+    background: #3f4d67;
+    border-color: #3f4d67;  
+}
+.card.h-100.mb-0 {
+    width: 93%;
+}
+.btn-group>.btn-group:not(:last-child)>.btn, .btn-group>.btn:not(:last-child):not(.dropdown-toggle) {
+    border-top-right-radius: 8%;
+    border-bottom-right-radius: 7%;
+}
+.card {
+    width: 95%;
+}
+label.Polaris-Choice {
+    margin-left: 9px;
+}
+.card.h-100.mb-0 {
+    width: 91%;
+    margin-top: 32px;
+    margin-left: 37px;
+}
+.card1 {
+    width: 46.49%;
+    margin-left: 36px;
+    margin-top: 23px;
+}

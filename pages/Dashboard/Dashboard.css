@@ -1,0 +1,135 @@
+.back1{
+    background-size: 80% ;
+     background-repeat: no-repeat; 
+     background-position: 15rem -5rem
+}
+.pl-3, .px-3 {
+    padding-left: 1rem !important;
+}
+
+.pb-2, .py-2 {
+    padding-bottom: 0.5rem !important;
+}
+.pl-4, .dataTables_wrapper .dataTables_length, .px-4, .dataTables_wrapper .dataTables_info {
+    padding-left: 1.5rem !important;
+}
+.mt-4, .my-4 {
+    margin-top: 1.5rem !important;
+}
+.fw-normal {
+    font-weight: normal;
+}
+
+.text-muted, input[type="radio"]:disabled + label, input[type="checkbox"]:disabled + label {
+    color: #6c757d !important;
+}
+.pl-4, .dataTables_wrapper .dataTables_length, .px-4, .dataTables_wrapper .dataTables_info {
+    padding-left: 1.5
+rem
+ !important;
+}
+.mt-4, .my-4 {
+    margin-top: 1.5rem !important;
+}
+
+.row {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.border-warning-light {
+    border-color: #fce384 !important;
+}
+.bg-warning-light {
+    background-color: #fce384 !important;
+}
+.p-2 {
+    padding: 0.5rem !important;
+}
+h3 {
+    font-size: 2.75rem !important;
+    font-weight: 500 !important;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+h4 {
+    font-size: 2.7rem !important;
+    padding-bottom: 41px;
+}
+.list-group-item {
+    padding:3.5rem 1rem !important;
+}
+span.d-block.mb-2.fw-bold {
+    padding-bottom: 26px;
+    font-size: 2.2rem;
+}
+p {
+    font-size: 1.6rem;
+}
+a.btn.btn-link.text-primary.pl-0 {
+    FONT-SIZE: 1.8rem;
+} 
+select.form-control:not([size]):not([multiple]), .dataTables_wrapper .dataTables_length label select:not([size]):not([multiple]) {
+    height: calc(4.25rem + 2px) !important;
+}
+
+small.fw-bold.mx-4 {
+    font-size: 2.2rem;
+    line-height: 33px;
+    font-weight: 500 !important;
+}
+span {
+    font-size: 2rem;
+}
+h5.mt-2 {
+    font-size: 2rem;
+}
+.btn-link {
+    font-size: 1.5rem;
+}
+label.col-sm-4.col-form-label.p-1.pt-2 {
+    width: 25%;
+    margin-left: 47px;
+    font-size: 1.8rem;
+}
+form.form-horizontal.row-separator.d-flex.flex-wrap.w-100 {
+    padding-top: 30px;
+}
+.form-group {
+    padding-bottom: 37px;
+    border-bottom: 1ps;
+}
+span.Polaris-Banner__Text {
+    font-size: 1.2rem;
+}
+button.Polaris-Banner__Button {
+    font-size: 1.2rem;
+}
+.planeLevel{
+    margin-top: 0 px  ;
+        font-weight: bold;
+        text-align: center;
+}
+a.Polaris-Link {
+    font-size: 1rem;
+    font-weight: 600;
+}
+span.Polaris-Button__Text {
+    font-size: 11px;
+}
+button.Polaris-Button {
+    min-height: 2rem;
+}
+.Polaris-Heading {
+    font-size: 1.2rem;
+}
+p {
+    font-size: 1.1rem;
+}
+img.img1 {
+    width: 95%;
+}

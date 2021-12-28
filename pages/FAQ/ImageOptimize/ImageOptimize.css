@@ -1,0 +1,208 @@
+#setup-wizard .setup-options {
+    padding: 50px 30px 40px;
+}
+#setup-wizard fieldset {
+    border: 0;
+    padding: 20px 30px 40px;
+    
+    position: relative;
+    width: 100%;
+    left: 0;
+    right: 0;
+}
+.setup-options h3 {
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 35px;
+    color: #31373d;
+    margin: 0 auto 15px;    
+text-align: center;
+}
+.setup-options h6 {
+    font-size: 18px;
+    font-weight: 300;
+    max-width: 920px;
+    line-height: 24px;
+    margin: 0 auto 50px;
+}
+.text-left {
+    text-align: left !important;
+}
+.template-variables p {
+    margin-top: 5px;
+    font-size: 15px;
+    font-weight: 500;
+    color: #31373d;
+    margin-bottom: 10px;
+}
+.template-variables .template-variable {
+    color: #31373d;
+    border-radius: 5px;
+    background: #f9f9f9;
+    border: 1px solid #e9ecec;
+    font-size: 14px;
+    cursor: pointer;
+    padding: 7px 12px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+.setup-actions {
+    margin: 55px auto 0;
+}
+.setup-actions .btn:first-of-type {
+    margin-right: 20px;
+}
+.setup-actions .btn {
+    min-width: 190px;
+    padding: 8px 15px;
+    margin-bottom: 15px;
+}
+.btn-shop {
+    color: #fff;
+    outline: none;
+    cursor: pointer;
+    transition: none;
+    background: #3f4d67;
+    float: right;
+}
+.btn {
+    font-size: 16px;
+    min-width: 120px;
+    line-height: 26px;
+    border-radius: 5px;
+    white-space: nowrap;
+}
+.pro-support {
+    padding: 30px 40px;
+}
+
+.borders {
+    position: relative;
+    background: #fff;
+    max-width: 1100px;
+    margin: 15px auto 0;
+    box-shadow: 0 1px 4px rgb(0 0 0 / 30%);
+}
+.web-interface .wi-row {
+    float: left;
+    text-align: center;
+    width: 100%;
+    position: relative;
+    border-bottom: 1px solid #eee;
+}
+.web-interface .btn-group {
+    position: absolute;
+    left: 50%;
+    top: 25px;
+    width: 420px;
+    margin: 0 0 0 -211px;
+}
+.web-interface .btn-group .btn.active {
+    background: #298EEA;
+    color: #fff;
+    cursor: default;
+}
+.web-interface .btn-group a.lossy, .web-interface .btn-group .btn.lossy, .web-interface .btn-group a.uploader, .web-interface .btn-group .btn.uploader {
+    border: 1px
+ solid #298EEA;
+    border-radius: 3px 0 0 3px;
+}
+
+.web-interface .btn-group a, .web-interface .btn-group .btn {
+    display: block;
+    float: left;
+    width: 140px;
+    color: #1474cc;
+    padding: 15px 0 14;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 12px;
+    cursor: pointer;
+    border-top: 1px
+ solid #298EEA;    border-bottom: 1px
+ solid #298EEA;    transition: all .15s;
+}
+
+.web-interface .step-description {
+    display: block;
+    float: left;
+    margin: 40px 0 40px 40px;
+    font-size: 13px;
+    color: #212121;
+}
+.web-interface .btn-group {
+    position: absolute;
+    left: 50%;
+    top: 25px;
+    width: 420px;
+    margin: 0 0 0 -211px;}
+
+    web-interface .btn-group .btn.active {
+        background: #298EEA;
+        color: #fff;
+        cursor: default;
+    }
+    .web-interface .btn-group .btn.active {
+        background: #298EEA;
+        color: #fff;
+        cursor: default;
+    }
+    .web-interface .btn-group a.lossy, .web-interface .btn-group .btn.lossy, .web-interface .btn-group a.uploader, .web-interface .btn-group .btn.uploader {
+        border: 1px     solid #298EEA ;
+        border-radius: 3px   0 0 3    px }
+
+        p {
+            font-size: 1.6rem;
+        }
+
+        .app-wrapper {
+            padding-top:52px;
+            max-width: 100%;
+            margin-left: 8%;        
+        }
+        .Polaris-Select {
+            width: 100%;
+        }
+        span.Polaris-Select__SelectedOption {
+            font-size: 1.2rem;
+        }
+        
+        span.Polaris-Choice__Label {
+            font-weight: 600;
+            font-size: 1.5rem;
+            /* line-height: 18px; */
+            
+        }
+        span.Polaris-Button__Text {
+            font-size: 16px;
+            font-weight: 400;
+        }
+        .Polaris-Heading {
+            font-size: 2.2rem;
+        }
+        .lastStep{
+            text-align: center;
+        }
+        .next {
+            float: right;
+        }
+        .centerImage{
+            width: 24%;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+
+        }
+        .Polaris-ProgressBar__Indicator {
+            height: inherit;
+            width: 0;
+            background-color: #bbeef5;
+        }
+        .head1{
+            text-align: center;
+        }
+        .bodytext{
+            text-align: center;
+        }

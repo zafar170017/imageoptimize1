@@ -1,0 +1,19 @@
+.Polaris-TextContainer {
+    text-align: center;
+}
+.para1  {
+    margin-top: 8px;
+}
+.Polaris-Select {
+    width: 66%;
+}
+span.Polaris-Button__Text {
+    font-size: 10px;
+    font-weight: 500;
+}
+.MoveBack {
+    position: absolute;
+    top: 22px;
+    right: 141px;
+    /* FONT-SIZE: 10px !important; */
+}
